@@ -1,2 +1,3 @@
-# my_dsci_repo
-Test Repository for DSCI 401
+My DSCI 401 Repo
+This apparently will be public but I have yet to figure out how.
+
